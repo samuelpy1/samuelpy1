@@ -19,4 +19,4 @@
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 <p>🔹 Análise e Desenvolvimento de Sistemas - Fiap</p>
 <p>🔹 Santander Bootcamp 2024</p>
-<p>🔹 42School Québec</p>
+<p>🔹 42 Québec</p>
