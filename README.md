@@ -1,6 +1,7 @@
 <h1 align="center">Prazer <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-with-tongue_1f61b.gif" height="30px">, eu sou o Samuel!</h1>
 <p>🔹 📚 Estou cursando Análise e Desenvolvimento de Sistemas pela FIAP - São Paulo.</p>
 <p>🔹 💼 Tenho 2 anos de experiencia como QA no Canadá.</p>
+<p>🔹 💼 Atualmente trabalhando na Pedreira Onix como desenvolvedor de Software.</p>
 <p>🔹 🤝 Amo socializar, moda, estudar e mangás.</p>
 
 <h2 align="center">🔌Conecte-se comigo</h2>
